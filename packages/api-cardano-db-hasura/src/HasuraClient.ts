@@ -222,6 +222,13 @@ export class HasuraClient {
                   asset {
                       assetId
                       assetName
+                      description
+                      fingerprint
+                      logo
+                      metadataHash
+                      name
+                      ticker
+                      url
                       policyId  
                   }
                   quantity
